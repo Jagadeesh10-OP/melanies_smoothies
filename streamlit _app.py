@@ -1,6 +1,6 @@
 # Import python packages
 import streamlit as st
-from snowflake.snowpark.functions import col
+streamlit.title('my parents new halthy dinner')
 
 
 # Write directly to the app
